@@ -6,7 +6,7 @@ public class SmartphoneAdapter implements PowerOutlet {
     }
 
     @Override
-    public void plugin() {
+    public void plugIn() {
         smartphoneCharger.chargePhone();
     }
 }

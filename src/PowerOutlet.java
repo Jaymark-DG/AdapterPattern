@@ -1,3 +1,3 @@
 public interface PowerOutlet {
-    void plugin();
+    void plugIn();
 }

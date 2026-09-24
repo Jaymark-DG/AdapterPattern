@@ -12,9 +12,9 @@ public class Main {
 
         // Plug devices into standard power outlets
         System.out.println("Plugging in devices:");
-        laptopOutlet.plugin();
-        fridgeOutlet.plugin();
-        phoneOutlet.plugin();
+        laptopOutlet.plugIn();
+        fridgeOutlet.plugIn();
+        phoneOutlet.plugIn();
     }
 }
 
